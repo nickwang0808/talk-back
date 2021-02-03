@@ -16,7 +16,7 @@ const Home: React.FC = () => {
     }, 500);
   };
 
-  const handleRecord = (e: React.TouchEvent<HTMLDivElement>) => {
+  const handleRecord = (e: any) => {
     if (e.target === e.currentTarget) {
       startRecording();
     }
