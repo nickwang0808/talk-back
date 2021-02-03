@@ -1,0 +1,23 @@
+audio {
+  display: block;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  gap: 35px;
+}
+
+.green {
+  background-color: green;
+}
+.red {
+  background-color: red;
+}
+
+ion-icon {
+  font-size: calc(8 * 12px);
+}
