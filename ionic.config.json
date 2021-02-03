@@ -1,0 +1,7 @@
+{
+  "name": "talkback",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
